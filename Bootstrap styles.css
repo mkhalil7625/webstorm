@@ -1,0 +1,8 @@
+.jumbotron {
+    background: url("1.jpg");
+    text-shadow: 2px 2px black;
+}
+h2 {
+    font-size: 30px;
+}
+body{ background-color: brown}

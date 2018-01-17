@@ -1,0 +1,64 @@
+b{
+    font-size: 20px;
+}
+h2{
+Color:blue;
+}
+H1{
+color:firebrick;
+    text-align: center;
+}
+Body{
+background-color:lightgoldenrodyellow;
+    text-decoration: none;}
+img{
+        border: blue 2px dashed;
+    }
+
+.favorite_section {
+    border: gainsboro 5px solid;
+    margin: 5px;
+}
+#favorite_movie_title {
+    font-style: italic;
+    color: black;
+}
+#fovorite_music_name {
+    font-style: revert;
+    background: aqua;
+    font-weight: bold;
+    color: black;
+}
+#movie-section {
+    color: maroon;
+}
+#music-section{
+    color: maroon;
+}
+.section-header {
+font-size: 30px;
+}
+#most_favorite_food {
+    color: cornflowerblue;
+}
+.favorite_image {
+    border-radius: 50%;
+    max-width: 50%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    }
+.favorite_image:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+table {
+    position: center;
+}
+th {
+    color: firebrick;
+}
+td {
+    color: ;
+}
